@@ -1,0 +1,6 @@
+Ingredientes:
+ing3, quant3
+ing2, quant2
+ing1, quant1
+Receita:
+passo1
